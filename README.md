@@ -54,10 +54,10 @@ Mình nhận làm **thuê các dự án Web Application và Tools** với **giá
 
 Bạn có dự án cần thực hiện? Hãy liên hệ qua:
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💬 **Telegram**: [@yourhandle](https://t.me/yourhandle)
-- 💼 **Facebook**: [facebook.com/yourprofile](https://facebook.com/yourprofile)
-- 🔗 **Discord**: yourhandle#0000
+- 📧 **Email**: [vicpine3103@gmail.com](mailto:vicpine3103@gmail.com)
+- 💬 **Telegram**: [@vicpine3103](https://t.me/vicpine3103)
+<!-- - 💼 **Facebook**: [facebook.com/yourprofile](https://facebook.com/yourprofile) -->
+<!-- - 🔗 **Discord**: yourhandle#0000 -->
 
 ---
 
@@ -71,11 +71,6 @@ Bạn có dự án cần thực hiện? Hãy liên hệ qua:
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicpine3103&show_icons=true&theme=radical)
-
----
 
 ### 🤝 Cam kết
 

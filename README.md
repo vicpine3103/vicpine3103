@@ -1,5 +1,4 @@
 # 👋 Xin chào! Mình là Vic Pine 
-# Hi there! I'm Vic Pine
 
 ## 💼 Dịch vụ Freelance - Phát triển Web App & Tools
 

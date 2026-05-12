@@ -3,7 +3,7 @@
 ## 💼 Dịch vụ Freelance - Phát triển Web App & Tools
 
 Mình nhận làm **thuê các dự án Web Application và Tools** với **giá sinh viên hữu nghị** 
-Làm mọi thứ liên quan đến AI và DATA
+Làm mọi thứ liên quan đến AI và DATA và Software Development, đặc biệt là **Web App** và **Tools**. Mình có kinh nghiệm với nhiều công nghệ khác nhau, sẵn sàng giúp bạn biến ý tưởng thành hiện thực.
 
 ---
 

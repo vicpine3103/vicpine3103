@@ -2,7 +2,7 @@
 
 ## 💼 Dịch vụ Freelance - Phát triển Web App & Tools
 
-Mình nhận làm **thuê các dự án Web Application và Tools** với **giá sinh viên hữu nghị** 🎓
+Mình nhận làm **thuê các dự án Web Application và Tools** với **giá sinh viên hữu nghị** 
 
 ---
 
